@@ -1,5 +1,5 @@
 //
-//  ZLImageLayoutTableViewController.m
+//  DLImageLayoutTableViewController.m
 //  DynamicLayout
 //
 //  Created by zhangdl on 14-10-26.

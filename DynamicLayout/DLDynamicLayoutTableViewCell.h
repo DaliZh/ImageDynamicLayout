@@ -1,5 +1,5 @@
 //
-//  ZLImageLayoutTableViewCell.h
+//  DLImageLayoutTableViewCell.h
 //  DynamicLayout
 //
 //  Created by zhangdl on 14-10-26.

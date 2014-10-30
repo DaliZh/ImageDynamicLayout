@@ -1,5 +1,5 @@
 //
-//  ZLImageRowData.m
+//  DLImageRowData.m
 //  DynamicLayout
 //
 //  Created by zhangdl on 14-10-27.
